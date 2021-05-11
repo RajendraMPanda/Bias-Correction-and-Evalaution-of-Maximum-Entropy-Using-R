@@ -1,1 +1,1 @@
-# Bias-Correction-and-Evalaution-of-Maximum-Entropy-Model-Using-R
+# Maximum-Entropy-Model-Using-R
